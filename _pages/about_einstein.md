@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the modeling and monitoring of composite structures with physic-informed data-driven methods.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My objective is to understand the mechanical response of composite materials from high-fidelity experiments across different scales, from micro to meso to macro. Covering all the aspects from the laboratory to the FEM model, I develop methodologies to transfrom data into knowledge to foster the spread of composite materials. The result of this research will be a data-driven framework for the characterization of composite materials from limited high fidelity experiments guided by the estimated uncertainty.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Data-driven approach for calibrating a multiscale model of fiber-reinforced composites from experimental data
+short_title: Multiscale model calibration from data
+description: A data-driven method that combines microstructural information from microCT with material response from tensile tests to calibrate a Stochastic Volume Element that model the variable response of as-built composites
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Composites
 giscus_comments: true
 ---
 

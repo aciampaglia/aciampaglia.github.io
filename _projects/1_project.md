@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Discovering orthotropic material laws with Mechanistic Neural Networks from experimental observations
+short_title: Material discovery with MNN
+description: A novel characterization method that combines Digital Image Correlation dat with Mechanistic Data Science
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Composites
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

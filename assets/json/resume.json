@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alberto Ciampaglia",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "aberto.ciampaglia@polito.it",
+    "website": "https://aciampaglia.github.io/home/",
+    "summary": "A Italian-born mechanical engineer, on my purse of innovation in the field of advanced materials mechanics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "C.so Duca degli Abruzzi, 24",
+      "postalCode": "TO 10121",
+      "city": "Turin",
+      "countryCode": "Italy",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,46 +23,40 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Department of Mechanical Engineering, Politecnico di Torino",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.polito.it/personale?p=alberto.ciampaglia",
+      "startDate": "2023",
+      "endDate": "now",
+      "summary": "Advanced modelling and testing of fiber-reinforced materials and additvely manufactured metals. Teaching Design of Lightweight structures and Fundamentals of Machine Design to Mechanical Engineering's masters and bachelors",
       "highlights": [
-        "Relativity"
+        "Data-driven methods for mechanics",
+        "Modelling of fiber-reinforced composite"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Politecnico di Torino, Turin, Italy",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "startDate": "2019",
+      "endDate": "2023",
+      "score": "Cum laude",
       "courses": [
-        "Theory of Relativity"
+        "Data driven and physics based methods to asses the mechanical response of advanced materials"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
