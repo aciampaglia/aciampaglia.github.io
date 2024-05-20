@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Special Issue on Applied Science
 date: 2023-12-15 07:59:00-0400
 inline: false
 related_posts: true
