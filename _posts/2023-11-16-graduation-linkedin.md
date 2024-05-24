@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A LinkedIn post
+title: Finally, Dr. Ciampaglia.
 date: 2023-11-16 11:12:00-0400
-description: A post from LinkedIn
+description: I've completed my PhD in Mechanical Engineering!
 tags: formatting
 categories: sample-posts external-services
 featured: true

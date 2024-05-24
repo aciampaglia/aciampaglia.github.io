@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Ph.D., Research Associate, <a href='https://www.polito.it/personale?p=alberto.ciampaglia'>Politecnico di Torino</a>.
 
