@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of research project!
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Composites, Additive Manufacturing]
 horizontal: false

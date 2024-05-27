@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /dlcs/
+title: Design of lightweight and composite structures
+description: Materials for the master course "Design of lightweight and composite structures"
 nav: false
 nav_order: 5
 ---

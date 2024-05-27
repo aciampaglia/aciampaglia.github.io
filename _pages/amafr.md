@@ -1,13 +1,10 @@
 ---
-layout: post
-title: Tutorial on PINN applied to fatigue
-date: 2024-05-22 08:57:00-0400
-description: Tutorial on PINN applied to fatigue
-tags: formatting jupyter
-categories: sample-posts
-giscus_comments: false
-related_posts: false
-featured: true
+layout: page
+permalink: /amafr/
+title: Advanced methodologies for the assesment of the fatigue response
+description: Materials for the master course "Design of lightweight and composite structures"
+nav: false
+nav_order: 5
 ---
 
 The doctoral course "Advanced methodologies for the assesment of the fatigue response" given to doctoral students at Politecnico di Torino covered
@@ -28,4 +25,3 @@ Following, a dataset of fatigue experiments conducted on Additively Manufactured
     <p>Sorry, the notebook you are looking for does not exist.</p>
 {% endif %}
 {:/nomarkdown}
-
