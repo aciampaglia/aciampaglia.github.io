@@ -13,8 +13,6 @@ The doctoral course "Advanced methodologies for the assesment of the fatigue res
 the application of Machine Learning models in the field of fatigue of metals.
 I have had the pleasure to teach the class about "Fatigue & Machine Learning", where I could give an overview of machine learning methods for science has been given.
 
- <!-- {% pdf "/assets/pdf/AMAFR_MachineLearning&Fatigue_Part1&2.pdf" %} -->
-
 In this jupyter notebook you will find an introduction to Physics-Informed Neural Networks (PINN) with application to a toy problem.
 Following, a dataset of fatigue experiments conducted on Additively Manufactured metals is provided to exercise with NN and PINN.
 
