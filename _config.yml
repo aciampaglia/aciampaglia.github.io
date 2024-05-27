@@ -228,7 +228,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-pdf-embed
+  # - jekyll-pdf-embed
 
 # Sitemap settings
 defaults:
