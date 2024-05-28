@@ -1,0 +1,34 @@
+Full-Professors:
+    - name: Davide S. Paolino
+      email: davide.paolino@polito.it
+      url: 
+      image: staff/davide.jpg
+
+Associate-Professors:
+    - name: Andrea Tridello
+      email: andrea.tridello@polito.it
+      url: 
+      image: staff/andrea_tridello.jpg
+
+Assistant-Professors:
+    - name: Raffaele Ciardiello
+      email: raffaele.ciardiello@polito.it
+      url:
+      image: staff/raffaele.jpg
+
+Associate-Researchers:
+    - name: Carlo Boursier Niutta
+      email: carlo.boursier@polito.it
+      url:
+      image: staff/carlo.jpg
+
+    - name: Alberto Ciampaglia
+      email: alberto.ciampaglia@polito.it
+      url: aciampaglia@github.io
+      image: staff/alberto.jpg
+
+PhD-Students:
+    - name: Alessio Centola
+      email: alessio.centola@polito.it
+      url: 
+      image: staff/alessio.jpg

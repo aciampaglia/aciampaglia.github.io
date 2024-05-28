@@ -1,0 +1,59 @@
+<div class="instructors clearfix">
+    {% for instructor in site.data.staff.Full-Professors %}
+    <div class="instructor-profile-two-col">
+      <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      <ul class="instructor-info">
+        <li><span>Full Professor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      </ul>
+    </div>
+    {% endfor %}
+  
+    {% for instructor in site.data.staff.Associate-Professors %}
+    <div class="instructor-profile-two-col">
+      {% if instructor.image %}
+      <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      {% endif %}
+      <ul class="instructor-info">
+        <li><span>Associate Professor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      </ul>
+    </div>
+    {% endfor %}
+  
+    {% for instructor in site.data.staff.Assistant-Professors %}
+    <div class="instructor-profile-two-col">
+      {% if instructor.image %}
+      <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      {% endif %}
+      <ul class="instructor-info">
+        <li><span>Assistant Professor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      </ul>
+    </div>
+    {% endfor %}
+
+    {% for instructor in site.data.staff.Associate-Researchers %}
+    <div class="instructor-profile-two-col">
+      {% if instructor.image %}
+      <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      {% endif %}
+      <ul class="instructor-info">
+        <li><span>Research Associate</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      </ul>
+    </div>
+    {% endfor %}  
+
+    {% for instructor in site.data.staff.PhD-Students %}
+    <div class="instructor-profile-two-col">
+      {% if instructor.image %}
+      <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+      {% endif %}
+      <ul class="instructor-info">
+        <li><span>PhD Student</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+      </ul>
+    </div>
+    {% endfor %}
+</div>
