@@ -8,6 +8,7 @@ categories: sample-posts
 giscus_comments: false
 related_posts: false
 featured: true
+show: true
 ---
 
 The doctoral course "Advanced methodologies for the assesment of the fatigue response" given to doctoral students at Politecnico di Torino covered

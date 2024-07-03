@@ -7,8 +7,10 @@ tags: formatting toc sidebar
 categories: sample-posts
 giscus_comments: true
 related_posts: false
+show: false
 toc:
   sidebar: left
+featured: false
 ---
 This post shows how to add a table of contents as a sidebar.
 

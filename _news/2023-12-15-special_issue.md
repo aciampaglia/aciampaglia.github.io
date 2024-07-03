@@ -4,6 +4,7 @@ title: Special Issue on Applied Science
 date: 2023-12-15 07:58:00-0400
 inline: false
 related_posts: true
+show: true
 ---
 
 📢 Do you have any interesting results about applying machine learning methods to fatigue modelling? 
