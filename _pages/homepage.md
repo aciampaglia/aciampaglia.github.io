@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Ph.D., Research Associate, <a href='https://www.polito.it/personale?p=alberto.ciampaglia'>Politecnico di Torino</a>.
+subtitle: Ph.D., Assistant Professor (RTD-A), <a href='https://www.polito.it/personale?p=alberto.ciampaglia'>Politecnico di Torino</a>.
 
 profile:
   align: right

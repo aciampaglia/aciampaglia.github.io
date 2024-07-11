@@ -7,6 +7,4 @@ nav: false
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+The subject aims at introducing the student to the design of mechanical and automotive structure with the particular target of lightweight. Lightweight targets can be pursued by using recently developed steels of the families of HSS and UHSS, by using lightweight metallic alloys such as Aluminum or by using Fiber Reinforced Plastic such as Composite materials. Sometimes multi-material structures are considered, taking advantage from the particular properties and manufacturing technologies adopted to make mechanical components. The subject will in particular concentrate on the design with composite materials. It is expected to develop some experimental lab activities. It is expected to have application testimonials from relevant industries.
